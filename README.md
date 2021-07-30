@@ -9,3 +9,7 @@ $ sudo chmod +x grub_change.sh
 $ sudo sh grub_change.sh
  
 // if you want to change image so replace folder image with your own image with same name. //
+
+
+Provided by "IC ORGANIZATION" 
+
